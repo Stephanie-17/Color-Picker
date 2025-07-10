@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(22, 31, 196);
+    color: rgb(255, 253, 253);
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-top: 12%;
+    background: linear-gradient(to right, rgb(7, 7, 7), rgb(21, 3, 92));
+}
+.color1{
+    background-color: cadetblue;
+
+}
+h1{
+    transition: letter-spacing,0.9s;
+}
+h1:hover{
+letter-spacing: 3em;
+    
+}
