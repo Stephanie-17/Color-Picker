@@ -11,5 +11,3 @@ function setGradient(){
     
 color1.addEventListener("input", setGradient)
 color1.addEventListener("input", setGradient)
-
-Function
