@@ -10,4 +10,4 @@ function setGradient(){
 }
     
 color1.addEventListener("input", setGradient)
-color1.addEventListener("input", setGradient)
+color2.addEventListener("input", setGradient)
